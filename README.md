@@ -4,9 +4,9 @@
 **QuinPoley/QuinPoley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Currently Learning:
-  Postgres
-  React
-  Express
+  ####Postgres
+  ####React
+  ####Express
 ### Currently Studying For:
   Azure Fundamentals AZ-900
   Google Associate Cloud Engineer
