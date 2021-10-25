@@ -10,7 +10,6 @@
 ### Currently Studying For:
   * Azure Fundamentals AZ-900
   * Google Associate Cloud Engineer
-  * AWS Security Exam
   * PCPP 1 & 2(Not released yet)
 ### Currently Working On:
   * React Web Application
