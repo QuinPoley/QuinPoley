@@ -8,8 +8,8 @@
   * React
   * Express
 ### Currently Studying For:
+  * AWS Solutioons Architect Professional
   * Azure Fundamentals AZ-900
-  * Google Associate Cloud Engineer
   * PCPP 1 & 2(Not released yet)
 ### Currently Working On:
   * React Web Application
