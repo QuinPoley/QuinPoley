@@ -1,6 +1,6 @@
 # Quin Poley
   Hello and welcome to my Github page! 
-  I am a software developer primarily interested in cloud and security
+  I am a software developer primarily interested in cloud and security.
   Here are all my projects I work on for fun:
 <!--
 **QuinPoley/QuinPoley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
